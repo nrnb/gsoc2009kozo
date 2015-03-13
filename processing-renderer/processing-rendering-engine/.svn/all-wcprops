@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/17912/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine
+END
+osgi.bnd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/17567/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/osgi.bnd
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/17882/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/pom.xml
+END

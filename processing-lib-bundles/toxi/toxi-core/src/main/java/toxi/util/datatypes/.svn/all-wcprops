@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/util/datatypes
+END
+BiasedIntegerRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/util/datatypes/BiasedIntegerRange.java
+END
+FloatRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/util/datatypes/FloatRange.java
+END
+TypedProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/util/datatypes/TypedProperties.java
+END
+DoubleRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/util/datatypes/DoubleRange.java
+END
+GenericSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/util/datatypes/GenericSet.java
+END
+IntegerSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/util/datatypes/IntegerSet.java
+END
+BiasedFloatRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/util/datatypes/BiasedFloatRange.java
+END
+IntegerRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/util/datatypes/IntegerRange.java
+END
+SingletonRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/util/datatypes/SingletonRegistry.java
+END
+ArrayUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/util/datatypes/ArrayUtil.java
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/xml
+END
+CDATAReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/xml/CDATAReader.java
+END
+XMLValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/xml/XMLValidator.java
+END
+XMLParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/xml/XMLParseException.java
+END
+XMLElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/xml/XMLElement.java
+END
+XMLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/xml/XMLException.java
+END
+XMLEntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/xml/XMLEntityResolver.java
+END
+StdXMLBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/xml/StdXMLBuilder.java
+END
+XMLAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/xml/XMLAttribute.java
+END
+StdXMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/xml/StdXMLParser.java
+END
+XMLValidationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/xml/XMLValidationException.java
+END
+PIReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/xml/PIReader.java
+END
+XMLWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/xml/XMLWriter.java
+END
+ContentReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/xml/ContentReader.java
+END
+XMLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/xml/XMLUtil.java
+END
+StdXMLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/xml/StdXMLReader.java
+END

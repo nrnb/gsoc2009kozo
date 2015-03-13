@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/17148/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi
+END
+osgi.bnd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/osgi.bnd
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/pom.xml
+END

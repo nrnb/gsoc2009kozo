@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/17864/csplugins/trunk/soc/kozo/layer-plugin/layer-builder-plugin/src/main/java/org/cytoscape/layer/internal/tasks
+END
+DisplayMultilayerNetworkBuilderUITask.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/17863/csplugins/trunk/soc/kozo/layer-plugin/layer-builder-plugin/src/main/java/org/cytoscape/layer/internal/tasks/DisplayMultilayerNetworkBuilderUITask.java
+END
+BuildMultilayerNetworkTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/17861/csplugins/trunk/soc/kozo/layer-plugin/layer-builder-plugin/src/main/java/org/cytoscape/layer/internal/tasks/BuildMultilayerNetworkTask.java
+END
+DisplayMultilayerNetworkBuilderUITaskFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/17864/csplugins/trunk/soc/kozo/layer-plugin/layer-builder-plugin/src/main/java/org/cytoscape/layer/internal/tasks/DisplayMultilayerNetworkBuilderUITaskFactory.java
+END
+BuildMultilayerNetworkTaskFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/17862/csplugins/trunk/soc/kozo/layer-plugin/layer-builder-plugin/src/main/java/org/cytoscape/layer/internal/tasks/BuildMultilayerNetworkTaskFactory.java
+END

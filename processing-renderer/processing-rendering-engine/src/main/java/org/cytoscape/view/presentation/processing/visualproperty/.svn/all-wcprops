@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/17912/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/visualproperty
+END
+ClassTypeVisualProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/17882/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/visualproperty/ClassTypeVisualProperty.java
+END
+ProcessingVisualLexicon.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/17912/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/visualproperty/ProcessingVisualLexicon.java
+END
+P5ShapeValueChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/17891/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/visualproperty/P5ShapeValueChooser.java
+END
+CyDrawableVisualProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/17367/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/visualproperty/CyDrawableVisualProperty.java
+END
+NodeTexture.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/16920/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/visualproperty/NodeTexture.java
+END
+Light.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/16921/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/visualproperty/Light.java
+END
+LineStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/16933/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/visualproperty/LineStyle.java
+END
+ArrowShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/16933/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/visualproperty/ArrowShape.java
+END
+ImageVisualProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/17631/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/visualproperty/ImageVisualProperty.java
+END
+PImageVisualProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/17884/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/visualproperty/PImageVisualProperty.java
+END
+P5ShapeVisualProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/17889/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/visualproperty/P5ShapeVisualProperty.java
+END

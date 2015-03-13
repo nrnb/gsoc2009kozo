@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/17145/csplugins/trunk/soc/kozo/processing-lib-bundles/jogl-osgi/src/main/resources/native/windows/x86
+END
+jogl_awt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/17145/csplugins/trunk/soc/kozo/processing-lib-bundles/jogl-osgi/src/main/resources/native/windows/x86/jogl_awt.dll
+END
+gluegen-rt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/17145/csplugins/trunk/soc/kozo/processing-lib-bundles/jogl-osgi/src/main/resources/native/windows/x86/gluegen-rt.dll
+END
+jogl.dll
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/17145/csplugins/trunk/soc/kozo/processing-lib-bundles/jogl-osgi/src/main/resources/native/windows/x86/jogl.dll
+END
+jogl_cg.dll
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/17145/csplugins/trunk/soc/kozo/processing-lib-bundles/jogl-osgi/src/main/resources/native/windows/x86/jogl_cg.dll
+END

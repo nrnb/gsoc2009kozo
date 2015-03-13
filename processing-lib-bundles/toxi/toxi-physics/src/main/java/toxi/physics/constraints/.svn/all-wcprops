@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/17166/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-physics/src/main/java/toxi/physics/constraints
+END
+XAxisConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/17166/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-physics/src/main/java/toxi/physics/constraints/XAxisConstraint.java
+END
+YAxisConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/17166/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-physics/src/main/java/toxi/physics/constraints/YAxisConstraint.java
+END
+ZAxisConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/17166/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-physics/src/main/java/toxi/physics/constraints/ZAxisConstraint.java
+END
+ParticleConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/17166/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-physics/src/main/java/toxi/physics/constraints/ParticleConstraint.java
+END
+SphereConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/17166/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-physics/src/main/java/toxi/physics/constraints/SphereConstraint.java
+END

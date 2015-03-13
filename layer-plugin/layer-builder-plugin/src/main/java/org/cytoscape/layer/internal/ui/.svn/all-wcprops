@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/17870/csplugins/trunk/soc/kozo/layer-plugin/layer-builder-plugin/src/main/java/org/cytoscape/layer/internal/ui
+END
+LayerBuilderDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/17866/csplugins/trunk/soc/kozo/layer-plugin/layer-builder-plugin/src/main/java/org/cytoscape/layer/internal/ui/LayerBuilderDialog.java
+END
+LayerConnectionTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/17867/csplugins/trunk/soc/kozo/layer-plugin/layer-builder-plugin/src/main/java/org/cytoscape/layer/internal/ui/LayerConnectionTableModel.java
+END
+ComboCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/17865/csplugins/trunk/soc/kozo/layer-plugin/layer-builder-plugin/src/main/java/org/cytoscape/layer/internal/ui/ComboCellRenderer.java
+END
+NetworkTableCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/17869/csplugins/trunk/soc/kozo/layer-plugin/layer-builder-plugin/src/main/java/org/cytoscape/layer/internal/ui/NetworkTableCellRenderer.java
+END
+NetworkListCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/17868/csplugins/trunk/soc/kozo/layer-plugin/layer-builder-plugin/src/main/java/org/cytoscape/layer/internal/ui/NetworkListCellRenderer.java
+END
+ReorderableJList.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/17870/csplugins/trunk/soc/kozo/layer-plugin/layer-builder-plugin/src/main/java/org/cytoscape/layer/internal/ui/ReorderableJList.java
+END

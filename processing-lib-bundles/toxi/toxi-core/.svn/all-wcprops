@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core
+END
+osgi.bnd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/osgi.bnd
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/pom.xml
+END

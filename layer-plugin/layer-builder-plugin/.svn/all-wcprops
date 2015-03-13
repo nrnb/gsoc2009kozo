@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17895/csplugins/trunk/soc/kozo/layer-plugin/layer-builder-plugin
+END
+osgi.bnd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/17227/csplugins/trunk/soc/kozo/layer-plugin/layer-builder-plugin/osgi.bnd
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/17788/csplugins/trunk/soc/kozo/layer-plugin/layer-builder-plugin/pom.xml
+END

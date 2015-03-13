@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math
+END
+LinearInterpolation.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/LinearInterpolation.java
+END
+SigmoidInterpolation.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/SigmoidInterpolation.java
+END
+SinCosLUT.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/SinCosLUT.java
+END
+ScaleMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/ScaleMap.java
+END
+CosineInterpolation.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/CosineInterpolation.java
+END
+InterpolateStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/InterpolateStrategy.java
+END
+MathUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/MathUtils.java
+END
+CircularInterpolation.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/CircularInterpolation.java
+END
+ZoomLensInterpolation.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/ZoomLensInterpolation.java
+END

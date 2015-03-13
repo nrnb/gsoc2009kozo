@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/waves
+END
+SineWave.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/waves/SineWave.java
+END
+AMFMSineWave.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/waves/AMFMSineWave.java
+END
+FMSineWave.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/waves/FMSineWave.java
+END
+AbstractWave.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/waves/AbstractWave.java
+END
+FMSquareWave.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/waves/FMSquareWave.java
+END
+FMHarmonicSquareWave.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/waves/FMHarmonicSquareWave.java
+END
+ConstantWave.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/waves/ConstantWave.java
+END
+FMSawtoothWave.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/waves/FMSawtoothWave.java
+END

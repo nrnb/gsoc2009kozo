@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/17145/csplugins/trunk/soc/kozo/processing-lib-bundles/jogl-osgi/src/main/resources/native/linux/x86
+END
+libgluegen-rt.so
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/17145/csplugins/trunk/soc/kozo/processing-lib-bundles/jogl-osgi/src/main/resources/native/linux/x86/libgluegen-rt.so
+END
+libjogl.so
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/17145/csplugins/trunk/soc/kozo/processing-lib-bundles/jogl-osgi/src/main/resources/native/linux/x86/libjogl.so
+END
+libjogl_cg.so
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/17145/csplugins/trunk/soc/kozo/processing-lib-bundles/jogl-osgi/src/main/resources/native/linux/x86/libjogl_cg.so
+END
+libjogl_awt.so
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/17145/csplugins/trunk/soc/kozo/processing-lib-bundles/jogl-osgi/src/main/resources/native/linux/x86/libjogl_awt.so
+END

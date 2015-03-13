@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/17912/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/internal
+END
+DefaultVisualStyleBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/17912/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/internal/DefaultVisualStyleBuilder.java
+END
+P5EdgeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/17889/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/internal/P5EdgeRenderer.java
+END
+ProcessingPresentationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/17882/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/internal/ProcessingPresentationFactory.java
+END
+FontManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/17834/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/internal/FontManager.java
+END
+P5NodeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/17889/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/internal/P5NodeRenderer.java
+END
+CreatePresentationTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/17497/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/internal/CreatePresentationTask.java
+END
+P5NetworkRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/17799/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/internal/P5NetworkRenderer.java
+END
+GraphRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/17101/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/internal/GraphRenderer.java
+END
+AbstractRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/17882/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/internal/AbstractRenderer.java
+END
+CreatePresentationTaskFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/17274/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/internal/CreatePresentationTaskFactory.java
+END
+CyDrawableManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/17896/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/internal/CyDrawableManagerImpl.java
+END
+ProcessingNetworkRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/17896/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/java/org/cytoscape/view/presentation/processing/internal/ProcessingNetworkRenderer.java
+END

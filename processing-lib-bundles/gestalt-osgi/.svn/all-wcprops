@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17173/csplugins/trunk/soc/kozo/processing-lib-bundles/gestalt-osgi
+END
+osgi.bnd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/17173/csplugins/trunk/soc/kozo/processing-lib-bundles/gestalt-osgi/osgi.bnd
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/17173/csplugins/trunk/soc/kozo/processing-lib-bundles/gestalt-osgi/pom.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/17166/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-physics/src/main/java/toxi/physics
+END
+VerletMinDistanceSpring.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/17166/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-physics/src/main/java/toxi/physics/VerletMinDistanceSpring.java
+END
+VerletPhysics.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/17166/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-physics/src/main/java/toxi/physics/VerletPhysics.java
+END
+VerletSpring.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/17166/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-physics/src/main/java/toxi/physics/VerletSpring.java
+END
+VerletParticle.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/17166/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-physics/src/main/java/toxi/physics/VerletParticle.java
+END
+VerletConstrainedSpring.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/17166/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-physics/src/main/java/toxi/physics/VerletConstrainedSpring.java
+END

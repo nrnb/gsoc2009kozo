@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/noise
+END
+SimplexNoise.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/noise/SimplexNoise.java
+END
+PerlinNoise.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/math/noise/PerlinNoise.java
+END

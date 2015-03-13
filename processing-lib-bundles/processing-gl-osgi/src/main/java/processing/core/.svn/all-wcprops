@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core
+END
+PShapeSVG.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PShapeSVG.java
+END
+PImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PImage.java
+END
+PApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PApplet.java
+END
+PGraphics2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PGraphics2D.java
+END
+PGraphics3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PGraphics3D.java
+END
+PLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PLine.java
+END
+PPolygon.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PPolygon.java
+END
+PGraphicsJava2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PGraphicsJava2D.java
+END
+PMatrix2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PMatrix2D.java
+END
+PMatrix3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PMatrix3D.java
+END
+PSmoothTriangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PSmoothTriangle.java
+END
+PStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PStyle.java
+END
+PGraphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PGraphics.java
+END
+PShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PShape.java
+END
+PVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PVector.java
+END
+PMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PMatrix.java
+END
+PTriangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PTriangle.java
+END
+PFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PFont.java
+END
+PConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/17147/csplugins/trunk/soc/kozo/processing-lib-bundles/processing-gl-osgi/src/main/java/processing/core/PConstants.java
+END

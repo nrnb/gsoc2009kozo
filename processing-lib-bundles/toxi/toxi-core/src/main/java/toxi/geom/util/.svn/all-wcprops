@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/util
+END
+STLWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/util/STLWriter.java
+END
+MaterialiseSTLColorModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/util/MaterialiseSTLColorModel.java
+END
+STLColorModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/util/STLColorModel.java
+END
+DefaultSTLColorModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/util/DefaultSTLColorModel.java
+END
+OBJWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/util/OBJWriter.java
+END

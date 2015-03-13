@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/17166/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-physics/src/main/java/toxi/physics2d
+END
+VerletConstrainedSpring2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/17166/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-physics/src/main/java/toxi/physics2d/VerletConstrainedSpring2D.java
+END
+VerletMinDistanceSpring2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/17166/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-physics/src/main/java/toxi/physics2d/VerletMinDistanceSpring2D.java
+END
+VerletPhysics2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/17166/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-physics/src/main/java/toxi/physics2d/VerletPhysics2D.java
+END
+VerletSpring2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/17166/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-physics/src/main/java/toxi/physics2d/VerletSpring2D.java
+END
+VerletParticle2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/17166/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-physics/src/main/java/toxi/physics2d/VerletParticle2D.java
+END

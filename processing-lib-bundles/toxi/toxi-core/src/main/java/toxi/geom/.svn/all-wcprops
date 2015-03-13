@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom
+END
+Plane.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/Plane.java
+END
+Intersector.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/Intersector.java
+END
+Vec2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/Vec2D.java
+END
+Vec3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/Vec3D.java
+END
+Matrix4x4.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/Matrix4x4.java
+END
+Triangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/Triangle.java
+END
+SphereIntersectorReflector.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/SphereIntersectorReflector.java
+END
+Spline2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/Spline2D.java
+END
+Spline3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/Spline3D.java
+END
+Ray3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/Ray3D.java
+END
+AABB.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/AABB.java
+END
+DimensionalVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/DimensionalVector.java
+END
+PointList.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/PointList.java
+END
+Quaternion.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/Quaternion.java
+END
+Reflector.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/Reflector.java
+END
+Sphere.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/Sphere.java
+END
+Quad.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/Quad.java
+END
+PointOctree.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/PointOctree.java
+END
+Rect.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/Rect.java
+END
+BernsteinPolynomial.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/17164/csplugins/trunk/soc/kozo/processing-lib-bundles/toxi/toxi-core/src/main/java/toxi/geom/BernsteinPolynomial.java
+END

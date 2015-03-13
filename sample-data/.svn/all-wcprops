@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/17928/csplugins/trunk/soc/kozo/sample-data
+END
+sample_reaction_path.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17885/csplugins/trunk/soc/kozo/sample-data/sample_reaction_path.txt
+END
+reaction_layer.sif
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17765/csplugins/trunk/soc/kozo/sample-data/reaction_layer.sif
+END
+sample_compound.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17928/csplugins/trunk/soc/kozo/sample-data/sample_compound.txt
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17585/csplugins/trunk/soc/kozo/sample-data/.project
+END
+gene_attr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17872/csplugins/trunk/soc/kozo/sample-data/gene_attr.txt
+END
+genetic_regulatory_layer.sif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/17767/csplugins/trunk/soc/kozo/sample-data/genetic_regulatory_layer.sif
+END
+gene_protein_connector.sif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/17766/csplugins/trunk/soc/kozo/sample-data/gene_protein_connector.sif
+END
+protein_attr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17872/csplugins/trunk/soc/kozo/sample-data/protein_attr.txt
+END
+gene_layer.sif
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17765/csplugins/trunk/soc/kozo/sample-data/gene_layer.sif
+END
+protein_layer.sif
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17765/csplugins/trunk/soc/kozo/sample-data/protein_layer.sif
+END
+reaction_attr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17872/csplugins/trunk/soc/kozo/sample-data/reaction_attr.txt
+END
+regulator_attr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17872/csplugins/trunk/soc/kozo/sample-data/regulator_attr.txt
+END
+regulator_gene_connector.sif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/17794/csplugins/trunk/soc/kozo/sample-data/regulator_gene_connector.sif
+END
+protein_reaction_connector.sif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/17782/csplugins/trunk/soc/kozo/sample-data/protein_reaction_connector.sif
+END

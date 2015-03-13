@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/17889/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/resources/META-INF/spring
+END
+bundle-context-osgi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/17889/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/resources/META-INF/spring/bundle-context-osgi.xml
+END
+bundle-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/17889/csplugins/trunk/soc/kozo/processing-renderer/processing-rendering-engine/src/main/resources/META-INF/spring/bundle-context.xml
+END
